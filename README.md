@@ -32,7 +32,6 @@
 |--------|----------|------------|
 | **Duty Reservation** | Система бронирования с API | FastAPI, PostgreSQL, JWT |
 | **Telegram Media Bot** | Бот для работы с медиа | aiogram, Redis |
-| **Project X** | Fullstack-приложение (командная разработка) | Nuxt3, Django, Docker |
 
 ---
 
